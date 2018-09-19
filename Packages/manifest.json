@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "com.unity.entities": "0.0.12-preview.13",
+    "com.broken.package": "0.0.1",
+    "com.working.package": "0.0.1"
+  }
+}
