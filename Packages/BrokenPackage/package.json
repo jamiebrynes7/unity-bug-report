@@ -6,6 +6,8 @@
     "description": "",
     "dependencies": {
         "com.working.package" : "0.0.1",
-        "com.unity.entities" : "0.0.12-preview.13"
+        "com.unity.burst": "0.2.4-preview.30",
+        "com.unity.entities": "0.0.12-preview.13",
+        "com.unity.incrementalcompiler": "0.0.42-preview.21"
     }
 }
